@@ -1,0 +1,1 @@
+This project is for our 100 days coding challenge. how to connect vsc to github.
